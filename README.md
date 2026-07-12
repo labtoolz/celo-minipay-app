@@ -16,3 +16,7 @@ An innovative mobile finance application built for the Celo MiniPay ecosystem. T
 ## 📁 Repository Structure
 * `SKILL.md`: Core project specifications and skill mapping.
 * `skills-lock.json`: Dependency locks for the project build environment.
+
+## 📬 Contact
+If you have any questions, feedback, or want to collaborate on this Celo MiniPay project, feel free to reach out:
+* **X (Twitter):** [https://x.com/yoling404](https://x.com/yoling404)
