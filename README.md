@@ -21,3 +21,4 @@ An innovative mobile finance application built for the Celo MiniPay ecosystem. T
 If you have any questions, feedback, or want to collaborate on this Celo MiniPay project, feel free to reach out:
 * **X (Twitter):** [https://x.com/yoling404](https://x.com/yoling404)
 * **Email:** [abdulwahabisa509@gmail.com](mailto:abdulwahabisa509@gmail.com)
+* **Telegram:** [https://t.me/Yolin404](https://t.me/Yolin404)
